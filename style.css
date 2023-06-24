@@ -46,3 +46,25 @@ h1{
     text-align: center;
     
 }
+footer{
+    background-color: rgb(47, 40, 40);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+.foot {
+    text-align: center;
+    color :rgb(82, 85, 85);
+}
+.orange{
+    color: orange;
+}
+.shadow{
+    box-shadow: 5px 5px 20px rgb(129, 126, 126);
+    border-radius: 5%;
+    margin: 5px 5px 5px 40px;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+
+}
